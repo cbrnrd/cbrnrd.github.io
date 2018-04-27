@@ -1,10 +1,10 @@
 body {
 	color: #ecf0f1;
 	background: #0D0D0D;
-	background-image: -webkit-linear-gradient(90deg, #a92bff, #0d77ff);
-	background-image: -o-linear-gradient(90deg, #a92bff, #0d77ff);
-	background-image: -moz-linear-gradient(90deg, #a92bff, #0d77ff);
-	background-image: linear-gradient(90deg, #a92bff, #0d77ff);
+	background-image: -webkit-linear-gradient(90deg, #036298, #3fd8c7);
+	background-image: -o-linear-gradient(90deg, #036298, #3fd8c7);
+	background-image: -moz-linear-gradient(90deg, #036298, #3fd8c7);
+	background-image: linear-gradient(90deg, #036298, #3fd8c7);
 }
 
 a {
