@@ -1,10 +1,10 @@
 body {
 	color: #ecf0f1;
 	background: #0D0D0D;
-	background-image: -webkit-linear-gradient(to right, #00c9ff, #92fe9d);
-	background-image: -o-linear-gradient(to right, #00c9ff, #92fe9d);
-	background-image: -moz-linear-gradient(to right, #00c9ff, #92fe9d);
-	background-image: linear-gradient(to right, #00c9ff, #92fe9d);
+	background-image: -webkit-linear-gradient(to right, #a52dff, #3066ff);
+	background-image: -o-linear-gradient(to right, #a52dff, #3066ff);
+	background-image: -moz-linear-gradient(to right, #a52dff, #3066ff);
+	background-image: linear-gradient(to right, #a52dff, #3066ff);
 }
 
 a {
