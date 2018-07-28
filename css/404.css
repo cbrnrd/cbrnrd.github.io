@@ -6,6 +6,10 @@ html, body {
   background-color: #000;
 }
 
+a {
+ color: #aaa; 
+}
+
 .bg-img {
   position: absolute;
   width: 100%;
